@@ -1,0 +1,8 @@
+.env
+
+.vscode/
+
+memory/users.json
+
+__pycache__/
+sub/__pycache__/
